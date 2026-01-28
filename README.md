@@ -1,5 +1,4 @@
 # 📚 Cryptography Lab Index  
-<img  align="right" width="400" height="400" src="https://github.com/Abhaykushwah/media-vault/blob/main/Cryptography-Programs/lock%20and%20verified%20paper.png">  
 
 | Lab No.     | Experiment Title            | Category                          |
 | ----------- | --------------------------- | --------------------------------- |
